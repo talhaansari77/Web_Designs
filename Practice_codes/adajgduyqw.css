@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+		*
+		{
+			margin: 0px;
+			padding: 0px;
+			text-align: center;
+		}
+		.Header
+		{
+			height: 100px;
+			
+			
+		}
+		.Banner
+		{
+			height: 300px;
+			
+		}
+		.Nav
+		{
+			height: 50px;
+			
+		}
+		.rightside
+		{
+			height: 600px;
+			
+			
+		}
+		.main
+		{
+			height: 600px;
+			
+			
+		}
+		.leftside
+		{
+			height: 600px;					
+		}
+		.f01
+		{
+			height: 200px;
+			
+		}
+		.f02
+		{
+			height: 200px;
+			
+		}
+		.f03
+		{
+			height: 200px;
+			
+		}
